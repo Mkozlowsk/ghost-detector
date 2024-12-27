@@ -13,7 +13,7 @@ The project implements a ghost detector able to detect EMF changes, negative ion
 - Magnetometer
 - Laser pointer
 - Bluetooth wireless control (not included on kicad schematics)
-- LI-ION powerd 
+- LI-ION powered 
 
 ### Technologies and Tools
 - **CubeIDE**  
